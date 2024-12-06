@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "[freepicdownloader.com]-spaghetti-bolognese-pasta-with-tomato-sauce-vegetables-minced-meat-homemade-healthy-italian-pasta-rustic-wooden-background-normal.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

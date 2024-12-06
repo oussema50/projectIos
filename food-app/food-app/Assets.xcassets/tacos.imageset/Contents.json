@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "[freepicdownloader.com]-shawerma-shawarma-tourtilla-wrap-with-onion-tomato-lettuce-garilc-sauce-white-background-normal.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
